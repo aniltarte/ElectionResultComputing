@@ -7,7 +7,7 @@ This project will help participants to do a quick start.
 
 Project setup instructions
 ---------------------------
-1. Clone the project
+1. Clone the project, better option is to fork it
     * git clone https://github.com/aniltarte/ElectionResultComputing.git
 2. Run gradle build command from project root directory
     * gradle clean build
