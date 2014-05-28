@@ -1,0 +1,10 @@
+allprojects {
+    repositories {
+        mavenCentral()
+    }
+}
+
+ext {
+    junit = "junit:junit:4.11"
+    electionData = fileTree(dir: rootProject.file("lib"), include: "election-data.jar")
+}
