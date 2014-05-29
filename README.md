@@ -14,7 +14,7 @@ Project setup instructions
     * gradle cleanIdea idea
 3. Open project in Intellij Idea, that's it.
 
-Background on the problem
+Background to the problem
 -----------------------------
 * In the workshop you will be analysing the Loksabha election 2014 results using Java 8 features.
 * For simplicity you will consider only Maharashtra state.
