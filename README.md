@@ -1,12 +1,16 @@
+UPDATES
+===================================
+A solution to this exercise and all other details are available at https://github.com/aniltarte/ElectionResultAnalysis, this project is obsolete now.
+
 ElectionResultComputing
-=======================
+-----------------------------------
 
 A skeleton project prepared for a workshop on Java 8, the Expertalk event is scheduled on 31st May 2014.
 Follow the [Expertalk Meetup event link](http://www.meetup.com/expertalks/events/179983882/ "Java 8") for more details.
 This project will help participants to do a quick start.
 
 Stories
-============================
+---------------------------------------------
 1. List the election result
 2. List the election result for Pune
    * List it down!
